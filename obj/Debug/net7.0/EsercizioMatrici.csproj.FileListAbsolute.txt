@@ -1,0 +1,15 @@
+C:\Users\seren\CsharpProjects\EsercizioMatrici\bin\Debug\net7.0\EsercizioMatrici.exe
+C:\Users\seren\CsharpProjects\EsercizioMatrici\bin\Debug\net7.0\EsercizioMatrici.deps.json
+C:\Users\seren\CsharpProjects\EsercizioMatrici\bin\Debug\net7.0\EsercizioMatrici.runtimeconfig.json
+C:\Users\seren\CsharpProjects\EsercizioMatrici\bin\Debug\net7.0\EsercizioMatrici.dll
+C:\Users\seren\CsharpProjects\EsercizioMatrici\bin\Debug\net7.0\EsercizioMatrici.pdb
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.csproj.AssemblyReference.cache
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.AssemblyInfoInputs.cache
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.AssemblyInfo.cs
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.csproj.CoreCompileInputs.cache
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.dll
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\refint\EsercizioMatrici.dll
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.pdb
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\EsercizioMatrici.genruntimeconfig.cache
+C:\Users\seren\CsharpProjects\EsercizioMatrici\obj\Debug\net7.0\ref\EsercizioMatrici.dll
